@@ -20,11 +20,11 @@
 
 .noticias div{
     margin-left: 30px;
-    margin-top: 10px;
+    margin-top: 50px;
 }
 
-.noticias1, .noticias2, .noticias3, .noticias4, .noticias5{
-    flex-basis: 100px;
+.noticias1, .noticias2, .noticias3, .noticias4, .noticias5, .noticias6, .noticias7, .noticias8, .noticias9{
+    flex-basis: 300px;
     flex-grow: 1;
     background-color: #dcdde1;
     height: 200px;
